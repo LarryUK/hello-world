@@ -1,5 +1,6 @@
 # hello-world
-Baby-steps at a programming marathon
+
+Baby-steps at a programming marathon.
 
 Since marrying, having a child, selling a flat and throwing the profits into a money-pit of a house, I've spent a lot of time wondering about the choices I've made since I last set a focused goal many years ago. 
 
